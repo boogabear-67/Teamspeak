@@ -220,4 +220,4 @@ TeamSpeak is offered as a **complete free version**, with all features and updat
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-21 17:35:24 UTC
+**Last updated:** 2026-09-21 21:31:08 UTC
